@@ -1,7 +1,7 @@
 # Bike-Store-Dashboard-SQL-PowerBI
 End-to-end Data Analytics project using SQL Server &amp; Power BI (Data Cleaning → Modeling → Visualization → Insights)
 This project presents an end-to-end Data Analytics solution using SQL Server and Power BI to analyze sales performance and generate actionable insights.
-<img src="<img width="1334" height="691" alt="Screenshot 2026-05-04 152333" src="https://github.com/user-attachments/assets/7b5ecd7f-8e60-4b4c-9a97-2622721b2011" />
+<img width="1334" height="691" alt="Screenshot 2026-05-04 152333" src="https://github.com/user-attachments/assets/7b5ecd7f-8e60-4b4c-9a97-2622721b2011" />
 
 📊 Overview
 An interactive dashboard built to track:
